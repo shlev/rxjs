@@ -1,0 +1,23 @@
+{
+  "name": "rxjs_boiler",
+  "version": "1.0.0",
+  "description": "Boilerplate for building RxJS applications",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server --port=8000"
+  },
+  "author": "Brad Traversy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.9",
+    "@babel/preset-react": "^7.18.6",
+    "babel-core": "^6.14.0"
+  },
+  "dependencies": {
+    "babel-loader": "^8.2.5",
+    "babel-preset-env": "^1.7.0",
+    "jquery": "^3.1.0",
+    "rxjs": "^5.0.0-beta.12",
+    "webpack": "^5.74.0"
+  }
+}
